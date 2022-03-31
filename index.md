@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# The Book
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/the-book/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### The Book clean responsive display for jekyll blogger
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Demo full landing page [https://swalayan.web.app/](https://swalayan.web.app)
 
-### Markdown
+Demo [https://thebook.pages.dev/](https://thebook.pages.dev/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Documentation : [https://www.hockeycomputindo.com/2022/03/github-pages-jekyll-template-themes.html →](https://www.hockeycomputindo.com/2022/03/github-pages-jekyll-template-themes.html)
 
-```markdown
-Syntax highlighted code block
+------------------------
 
-# Header 1
-## Header 2
-### Header 3
+![free download jekyll themes template source code](thebook1.png)
 
-- Bulleted
-- List
+Home page area display
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+![free download jekyll themes template source code](thebook2.png)
 
-[Link](url) and ![Image](src)
-```
+Blog List area display
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/the-book/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![free download jekyll themes template source code](thebook3.png)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Content area display
+
+----------------------------------
+
+
+Documentation : [https://www.hockeycomputindo.com/2022/03/github-pages-jekyll-template-themes.html →](https://www.hockeycomputindo.com/2022/03/github-pages-jekyll-template-themes.html)
+
+
+Demo full landing page [https://swalayan.web.app/](https://swalayan.web.app)
+
+
+
+Demo [https://thebook.pages.dev/](https://thebook.pages.dev/)
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+### Buy me a coffee ☕️ ❤️  ✌🏻 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
+
+--------------------------------------------------------------------------------------------------------------------
+
