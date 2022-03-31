@@ -10,6 +10,12 @@ Documentation : [https://www.hockeycomputindo.com/2022/03/github-pages-jekyll-te
 
 ------------------------
 
+### How to change design display ?? 
+
+just open on config.yml file and you can change design menu in here.
+
+------------------------
+
 ![free download jekyll themes template source code](thebook1.png)
 
 Home page area display
