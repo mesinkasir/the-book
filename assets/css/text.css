@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap');
+      h1 {
+        font: 100 1.515rem/1.875rem   'Merriweather', serif;
+      }
+      h2 {
+        font: 100 1.415rem/1.675rem  'Merriweather', serif;
+      }
+      h3 {
+        font: 100 1.385rem/1.575rem   'Merriweather', serif;
+      }
+      h4 {
+        font: 100 1.315rem/1.575rem   'Merriweather', serif;
+      }
+      h5 {
+        font: 100 1.315rem/1.575rem   'Merriweather', serif;
+      }
+      html{
+        font: 100 1.115rem/1.175rem  'Oswald', sans-serif;
+      }
+      body{
+        font: 100 1.115rem/1.175rem  'Oswald', sans-serif;
+      }
+      p {
+        font: 100 1.415rem/1.875rem 'Oswald', sans-serif;
+      }
+      d {
+        font: 100 0.815rem/0.875rem  'Oswald', sans-serif;
+      }
+	  .navbar-brand {
+        font: 100 1.315rem/1.575rem   'Merriweather', serif;
+      }
+	   li {
+        font: 100 1.115rem/1.275rem   'Merriweather', serif;
+      }
+        a:link {
+      text-decoration: none;
+        }
+
+        a:visited {
+      text-decoration: none;
+    }
+    a:link {
+  color: black;
+}
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: black;
+}
+
+a:active {
+  color: black;
+}

@@ -1,0 +1,49 @@
+title: The Book
+author:
+  name: Axcora
+  email: axcora@gmail.com
+description: Free template for jekyll blogger open source code download.
+icon: https://icons.iconarchive.com/icons/paomedia/small-n-flat/256/book-icon.png
+design:
+  situs: The Book
+  btn: https://github.com/mesinkasir/the-book
+  icon: fab fa-github
+  btntext: Download Now
+  titlecontent: Why The Book ??
+  textcontent: Tentu saja karna ini adalah solusi membuat website anti ribet dengan modern technology bersama jekyll saat nya menikmati sensasi situs cepat untuk deploy web modern mu. Dukungan auto SEO tersemat memudahkan untuk mu fokus pada konten artikel, dan saat nya sekarang berlaih ke jekyll bersama the book adalah solusi terbaik.
+  titlesection: Get Start Now !!
+  textsection: Saat nya menggunakan jekyll dengan the book sekarang.
+  image: https://images.unsplash.com/photo-1544716278-e513176f20b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGJvb2t8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60
+  titleinfo: The Book untuk mu !!
+  textinfo: Yap tema ini benar benar gratis dan free download full source code untuk kebutuhan mu membuat situs penuh kecepatan dan tanpa database dengan modern static site generator berbasis jekyll. Unduh dan mulai membuat website cepat mu menggunakan the book free jekyll theme template. Kemudahan dalam mengembangkan nya dan banyak dukungan dari pengembang , serta kemudahan untuk host via github ini adalah kesempurnaan untuk blogging platform dan website modern mu.
+  footertitle1: MarkDown
+  footertext1: Hanya menggunakan markdown file tanpa database tentunya lebih cepat untuk membuat post artikel konten mu.
+  footertitle2: Retina
+  footertext2: Retina display responsive otomatis menyesuaikan dengan device akses website mu,semakin menyenangkan.
+  footertitle3: Love
+  footertext3: Selalu penuh cinta dengan menggunakan jekyll untuk kebutuhan ngeblog dan membuat project situs modern mu.
+
+
+contactdesign:
+ address: Ruko Pasar Wisata Juanda Q-05,Sidoarjo
+ address1: East Java - Indonesia.
+ email: axcora@gmail.com
+ phone: 087819355589
+ phone1: 0895339403223
+ whatsapp: 085646104747
+
+
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# dablogger date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+dablogger:
+  date_format: "%b %-d, %Y"
+
+# Build settings
+theme: thebook
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
