@@ -4,6 +4,8 @@
 
 Demo full landing page [https://swalayan.web.app/](https://swalayan.web.app)
 
+Demo [https://thebook.pages.dev/](https://thebook.pages.dev/)
+
 Documentation : [https://www.hockeycomputindo.com/2022/03/github-pages-jekyll-template-themes.html →](https://www.hockeycomputindo.com/2022/03/github-pages-jekyll-template-themes.html)
 
 ------------------------
@@ -34,5 +36,19 @@ Demo full landing page [https://swalayan.web.app/](https://swalayan.web.app)
 
 
 
+Demo [https://thebook.pages.dev/](https://thebook.pages.dev/)
 
+
+--------------------------------------------------------------------------------------------------------------------
+
+### Buy me a coffee ☕️ ❤️  ✌🏻 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
+
+--------------------------------------------------------------------------------------------------------------------
 
