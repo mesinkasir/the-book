@@ -15,7 +15,6 @@ or you can clone fork it with run
 
 `git clone https://github.com/mesinkasir/the-book.git`
 
-![the book template for jekyll](https://github.com/fluidicon.png)
 
 now you can run the book with run `jekyll serve` 
 

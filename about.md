@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-cover: https://github.com/fluidicon.png
+cover: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 description: About the book for jekyll generator static site.
 permalink: /about/
 ---
@@ -12,7 +12,6 @@ Thebook is a themes and template design for jekyll blogger.
 
 Clean simple and blast fast website build using thebook !!
 
-![thebook template for jekyll](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 Ini adalah tema untuk membuat situs menggunakan [jekyll](https://jekyllrb.com/) , dengan jekyll buat situs mu lebih cepat dari sebelum nya.
 
