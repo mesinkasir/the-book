@@ -6,9 +6,13 @@ Demo full landing page [https://swalayan.web.app/](https://swalayan.web.app)
 
 Demo [https://thebook.pages.dev/](https://thebook.pages.dev/)
 
-Documentation : [https://www.hockeycomputindo.com/2022/03/github-pages-jekyll-template-themes.html →](https://www.hockeycomputindo.com/2022/03/github-pages-jekyll-template-themes.html)
+Documentation : [https://www.hockeycomputindo.com/2022/04/making-jekyll-website-with-book.html →](https://www.hockeycomputindo.com/2022/04/making-jekyll-website-with-book.html)
 
-Setting and change display just open on config.yml files
+------------------------
+
+### How to change design display ?? 
+
+just open on config.yml file and you can change design menu in here.
 
 ------------------------
 
@@ -31,7 +35,8 @@ Content area display
 ----------------------------------
 
 
-Documentation : [https://www.hockeycomputindo.com/2022/03/github-pages-jekyll-template-themes.html →](https://www.hockeycomputindo.com/2022/03/github-pages-jekyll-template-themes.html)
+Documentation : [https://www.hockeycomputindo.com/2022/04/making-jekyll-website-with-book.html →](https://www.hockeycomputindo.com/2022/04/making-jekyll-website-with-book.html)
+
 
 
 Demo full landing page [https://swalayan.web.app/](https://swalayan.web.app)
