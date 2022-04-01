@@ -8,6 +8,8 @@ Demo [https://thebook.pages.dev/](https://thebook.pages.dev/)
 
 Documentation : [https://www.hockeycomputindo.com/2022/03/github-pages-jekyll-template-themes.html →](https://www.hockeycomputindo.com/2022/03/github-pages-jekyll-template-themes.html)
 
+Setting and change display just open on config.yml files
+
 ------------------------
 
 ![free download jekyll themes template source code](thebook1.png)
